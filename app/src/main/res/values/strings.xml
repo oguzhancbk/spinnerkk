@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">spinnerkk</string>
+    <string-array name="renkler">
+        <item>Kırmızı</item>
+        <item>Lilla</item>
+        <item>Mavi</item>
+        <item>Sarı</item>
+        <item>Siyah</item>
+        <item>Yeşil</item>
+
+    </string-array>
+</resources>
